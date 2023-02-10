@@ -18,3 +18,8 @@
 * [Download](setup/download.md)
 * [Setup files](setup/setup-files.md)
 * [File location](setup/file-location.md)
+* [Licence Key](setup/licence-key.md)
+
+## Use app
+
+* [Starting t](use-app/starting-t.md)
