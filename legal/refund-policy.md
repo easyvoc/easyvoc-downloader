@@ -1,0 +1,5 @@
+# Refund Policy
+
+EasyVoc Return Policy for Digital Products EasyVoc offers digital products, such as the EasyVoc application, for purchase through our website. As digital produ cts are non-tangible goods and cannot be returned once purchased, we do not offer refunds or returns for our digital products. Before making a purchase, it is important that you understand the features and functionality of the product and ensur e it meets your needs. If you have any questions or concerns regarding the product, please contact our support team before making a purchase. In the event that you experience technical issues with the product, our support team will work with you to resolve th e issue to the best of our ability. If the issue cannot be resolved, we may offer a credit or exchange for another produ ct offered by EasyVoc, at our discretion. This return policy is subject to change at any time, without prior notice. Your purchase of a digital product from Eas yVoc constitutes your agreement to this policy. If you do not agree with this policy, please do not purchase our digit all products.
+
+{% file src="../.gitbook/assets/return policy.pdf" %}
