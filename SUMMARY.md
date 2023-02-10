@@ -17,3 +17,4 @@
 
 * [Download](setup/download.md)
 * [Setup files](setup/setup-files.md)
+* [File location](setup/file-location.md)
