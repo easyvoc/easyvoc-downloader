@@ -22,4 +22,5 @@
 
 ## Use app
 
-* [Starting t](use-app/starting-t.md)
+* [Using the app.](use-app/using-the-app..md)
+* [Settings](use-app/settings.md)
