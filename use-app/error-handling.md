@@ -38,13 +38,14 @@ When things happen unexpectedly, follow these steps:
 
 Invisible errors are errors that you can't see. These types of errors are most of the times in the code.
 
-An invisible error expresses itself by immediate closing the app.
+An invisible error expresses itself by immediate closing the app or closing the app unexpectedly.
 
 If this happens follow these steps:
 
-1. Take a clear screenshot of the problem
-2. Go to the Discord server
-3. Upload the image and describe what is happening.
+
+
+1. Go to the Discord server
+2. Describe what is happening.
 
 {% hint style="warning" %}
 Before you go to the Discord server, always check these things:
