@@ -26,7 +26,7 @@ With this API, you can check if the send version is the latest.
 
 <details>
 
-<summary>Send API request</summary>
+<summary>Send API request (Python)</summary>
 
 {% code lineNumbers="true" %}
 ```python
@@ -48,3 +48,40 @@ if __name__ == '__main__':
 {% endcode %}
 
 </details>
+
+<details>
+
+<summary>Send API request (Javascript)</summary>
+
+```javascript
+const request = require("request");
+
+function sendRequestToAPI(receivedNumber) {
+  const API_ENDPOINT = `https://easyvoc-app.api.stdlib.com/easyvoc@dev/?receivedNumber=${receivedNumber}`;
+  return new Promise((resolve, reject) => {
+    request(API_ENDPOINT, (error, response, body) => {
+      if (error) {
+        reject(error);
+      } else {
+        resolve(JSON.parse(body));
+      }
+    });
+  });
+}
+
+async function main() {
+  const receivedNumber = Number(prompt("Enter a number:"));
+  const result = await sendRequestToAPI(receivedNumber);
+  if (result.result) {
+    console.log("Result from API: True");
+  } else {
+    console.log("Result from API: False");
+  }
+}
+
+main();
+
+```
+
+</details>
+
