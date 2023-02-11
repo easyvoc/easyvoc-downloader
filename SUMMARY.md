@@ -24,3 +24,4 @@
 
 * [Using the app.](use-app/using-the-app..md)
 * [Settings](use-app/settings.md)
+* [⚠ Error handling](use-app/error-handling.md)
