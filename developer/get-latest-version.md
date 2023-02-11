@@ -85,3 +85,7 @@ main();
 
 </details>
 
+{% hint style="danger" %}
+These are just examples!!!
+{% endhint %}
+
