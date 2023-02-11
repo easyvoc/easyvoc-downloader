@@ -4,7 +4,7 @@ description: >-
   below to correctly set your pincode.
 ---
 
-# Pincode
+# 🆔 Pincode
 
 {% hint style="info" %}
 A pincode must meet these requirements:

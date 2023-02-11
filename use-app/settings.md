@@ -1,4 +1,4 @@
-# Settings
+# 📃 Settings
 
 You can change some settings in the app:
 

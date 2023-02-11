@@ -1,4 +1,4 @@
-# Using the app.
+# 🖥 Using the app.
 
 To start the app, open it and press "Start"
 
@@ -7,3 +7,4 @@ To start the app, open it and press "Start"
 Now the app will ask you the words you provided.
 
 <figure><img src="../.gitbook/assets/opened_app.png" alt=""><figcaption></figcaption></figure>
+

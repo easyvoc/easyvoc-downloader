@@ -1,4 +1,4 @@
-# 📺 No internet
+# 📡 No internet
 
 If you do not have internet, the app won't work. This is why it will display that you are not connected.&#x20;
 

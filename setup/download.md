@@ -1,4 +1,4 @@
-# Download
+# 🔽 Download
 
 To get EasyVoc, go to our [Webiste](https://whop.com/easyvocapp).\
 Here, join the waitlist. Once you are accepted, download the EasyVoc installer.
