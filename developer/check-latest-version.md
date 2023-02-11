@@ -1,4 +1,4 @@
-# Get latest version
+# Check latest version
 
 {% swagger method="get" path="?receivedNumber=" baseUrl="https://easyvoc-app.api.stdlib.com/easyvoc@dev/" summary="Check if your version is up to date" %}
 {% swagger-description %}

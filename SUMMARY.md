@@ -31,4 +31,4 @@
 ***
 
 * [Developer](developer/README.md)
-  * [Get latest version](developer/get-latest-version.md)
+  * [Check latest version](developer/check-latest-version.md)
