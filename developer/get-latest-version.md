@@ -7,7 +7,7 @@ With this API, you can check if the send version is the latest.
 
 {% endswagger-description %}
 
-{% swagger-parameter in="path" name="receivedNumber" required="true" %}
+{% swagger-parameter in="path" name="receivedNumber" required="true" type="Integer" %}
 
 {% endswagger-parameter %}
 
