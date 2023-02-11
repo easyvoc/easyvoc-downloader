@@ -19,6 +19,7 @@
 * [Setup files](setup/setup-files.md)
 * [File location](setup/file-location.md)
 * [Licence Key](setup/licence-key.md)
+* [Pincode](setup/pincode.md)
 
 ## Use app
 
