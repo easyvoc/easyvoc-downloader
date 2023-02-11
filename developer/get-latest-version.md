@@ -49,3 +49,7 @@ fetch("https://easyvoc-app.api.stdlib.com/easyvoc@dev/version/")
 ```
 
 </details>
+
+{% hint style="danger" %}
+These are just examples!!!
+{% endhint %}
