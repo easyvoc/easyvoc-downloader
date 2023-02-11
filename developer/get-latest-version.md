@@ -12,14 +12,26 @@ With this API, you can check if the send version is the latest.
 {% endswagger-parameter %}
 
 {% swagger-response status="200: OK" description="" %}
-```javascript
-{"result":true}
+```json
+{
+  "result":true
+}
 ```
 {% endswagger-response %}
 
 {% swagger-response status="204: No Content" description="" %}
-```javascript
-{"result":false}
+```json
+{
+  "result":false
+}
+```
+{% endswagger-response %}
+
+{% swagger-response status="404: Not Found" description="" %}
+```json
+{
+  "result":false
+}
 ```
 {% endswagger-response %}
 {% endswagger %}
