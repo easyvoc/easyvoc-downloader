@@ -1,6 +1,6 @@
 # Get error
 
-{% swagger method="get" path="/getError" baseUrl="https://easyvoc-app.api.stdlib.com/easyvoc@dev/" summary="" %}
+{% swagger method="get" path="/getError" baseUrl="https://easyvoc-app.api.stdlib.com/easyvoc@dev" summary="" %}
 {% swagger-description %}
 
 {% endswagger-description %}
