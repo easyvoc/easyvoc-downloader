@@ -27,11 +27,3 @@
 * [📃 Settings](use-app/settings.md)
 * [⚠ Error handling](use-app/error-handling.md)
 * [📡 No internet](use-app/no-internet.md)
-
-***
-
-* [Developer](developer/README.md)
-  * [Check latest version](developer/check-latest-version.md)
-  * [Get latest version](developer/get-latest-version.md)
-  * [Get error](developer/get-error.md)
-  * [Delete error](developer/delete-error.md)
