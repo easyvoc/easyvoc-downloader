@@ -1,6 +1,6 @@
 # Check latest version
 
-{% swagger method="get" path="" baseUrl="https://easyvoc-app.api.stdlib.com/easyvoc@dev/" summary="Check if your version is up to date" %}
+{% swagger method="get" path="" baseUrl="https://easyvoc-app.api.stdlib.com/easyvoc@dev/" summary="Check if your version is up to date" expanded="false" %}
 {% swagger-description %}
 With this API, you can check if the send version is the latest.
 
