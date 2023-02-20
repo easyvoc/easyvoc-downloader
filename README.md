@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/Schermopname (24).png
+cover: .gitbook/assets/easyvoc banner.png
 coverY: 0
 ---
 
