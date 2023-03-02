@@ -27,3 +27,7 @@
 * [📃 Settings](use-app/settings.md)
 * [⚠ Error handling](use-app/error-handling.md)
 * [📡 No internet](use-app/no-internet.md)
+
+***
+
+* [🚀 Boosts](boosts.md)
