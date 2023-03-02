@@ -1,4 +1,12 @@
+---
+layout: landing
+---
+
 # 🚀 Boosts
+
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}
 
 {% hint style="danger" %}
 **Boost are **<mark style="color:red;">**one time payments**</mark>** and not subscriptions!**
